@@ -1,1 +1,11 @@
-# A.I.T Agumented Interactivity Technology
+# A.I.T Agumented Interactivity Technology (Arttırılmış İnteraktivite Teknolojisi)
+
+The project, which we refer to as Augmented Interactivity Technology, aims primarily to provide a different experience to individuals engaged in gaming and indirectly offer new possibilities to game developers, enabling them to incorporate novel mechanics into their games. While achieving this goal, easily accessible and cost-effective equipment has been employed, thereby targeting a broader audience. This new technology is based on the interaction between an Arduino programmable board and a game played via the USB port, facilitating real-time data exchange.
+
+In order to better showcase this innovative technology, we have developed a 2D game within the technology demonstration category. Utilizing our designed system and code, we have created a system in which interactions with the real world are enabled through features such as fire, light, and motion sensors, along with a potentiometer. As a result of these interactions, we devised a system where the generated data is transmitted into the game, driving in-game events and progression through these events.
+
+Arttırılmış İnteraktivite Teknolojisi olarak adlandırdığımız bu projenin öncelikli amacı oyun oynayan insanlara farklı bir deneyim sunmak ve dolaylı yoldan da oyun geliştiricilerine yeni imkanlar sunarak, oyunlarına yeni mekanikler kazandırmalarıdır.
+
+Bu amacı gerçekleştirirken kolay ulaşılabilir ve düşük maliyetli teçhizatlar kullanılmış bu sayede daha geniş bir kitleye hitap edilmesi hedeflenilmiştir. Bu yeni teknoloji Arduino programlanabilir kartının USB portu üzerinden oynanan oyunla canlı şekilde veri alış-verişini gerçekleştirmesini temel almaktadır. 
+Bizler hazırladığımız bu yenilikçi teknolojiyi daha iyi tanıtmak adına teknoloji demosu kategorisinde 2 boyutlu bir oyun oluşturduk. Hazırladığımız sistem ve yazdığımız kodlar ile ateş, ışık ve ivme sensörlerinin yanı sıra bir potansiyometre ile kişinin gerçek dünyada etkileşime geçebileceği bir sistem hazırladık. Bu etkileşimin sonucu olarak ortaya çıkan verilerin oyuna aktarılması ile oyun içinde gerçekleşen olaylar ve bu olaylar sayesinde oyunda ilerlemeyi mümkün kılan bir sistem kurguladık. 
+
